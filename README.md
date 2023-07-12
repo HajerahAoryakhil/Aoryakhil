@@ -4,7 +4,7 @@ Welcome to my GitHbub page!
 
 My name is Hajerah Aoryakhil and I'm a Software Engineer at HyperionDev who taught me how to code and learn the language Python!
 
-**Tasks i've done so far is:**
+**Skills i've learnt so far is:**
 
 ● Basic Python syntax 
 ● Variables and Data types 
